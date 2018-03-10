@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    color:firebrick;
+    background: rgb(143, 235, 192);
+
+}
+p{
+    font-size: 20px;
+}
+.content{
+    background: darkseagreen;
+} 
+
