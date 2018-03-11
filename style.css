@@ -2,6 +2,7 @@ header{
     text-align: center;
     color:firebrick;
     background: rgb(143, 235, 192);
+    padding-bottom: 12px;
 
 }
 p{
@@ -10,4 +11,8 @@ p{
 .content{
     background: darkseagreen;
 } 
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
 
