@@ -15,4 +15,14 @@ footer{
     margin-top: 20px;
     color: crimson;
 }
+.menu {
+    margin-left: 370px; 
+}
+.menu li ul{
+    display: none;
+}
+
+.menu li:hover ul{
+    display: block;
+}
 
