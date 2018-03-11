@@ -11,18 +11,18 @@ p{
     background: darkseagreen;
 } 
 footer{
+    font-size: 20px;
     text-align: center;
-    margin-top: 20px;
     color: crimson;
 }
 .menu {
-    margin-left: 370px; 
+    margin-left: 370px;    
 }
 .menu li ul{
     display: none;
 }
-
 .menu li:hover ul{
     display: block;
 }
+
 
